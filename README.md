@@ -144,4 +144,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
+## Extra Credit: Simulate Color Space Developer Option
+This Developer Option allows you to choose between different color spaces. The options that can be selected are: Disabled, Monochromacy, Deuteranomoly, Protanomoly, and Tritanomoly. These options are different types of colorblindness. This Developer Option would be helpful to see if an app's color scheme and layout is accessible for more than one type of colorblindness. I don't know how much I will be focusing on the colors and aesthetics of the apps I create, so I don't think I'll be using it very often in this class. However, this option seems that it would be pretty useful when designing the UI of an app.
+
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
